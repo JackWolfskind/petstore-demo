@@ -1,0 +1,6 @@
+{
+    "/v2": {
+      "target": "https://petstore.swagger.io",
+      "secure": false
+    }
+  }
